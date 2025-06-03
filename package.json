@@ -1,8 +1,8 @@
 {
-  "name": "gandalf_v1",
+  "name": "jedi-app",
   "version": "1.0.0",
   "private": true,
-  "description": "gandalf_v1",
+  "description": "jedi-app-v1",
   "author": "Olujuwon Alabi",
   "keywords": [
     "gatsby"
