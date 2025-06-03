@@ -1,7 +1,7 @@
 {
   "name": "jedi-app",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "jedi-app-v1",
   "author": "Olujuwon Alabi",
   "keywords": [
